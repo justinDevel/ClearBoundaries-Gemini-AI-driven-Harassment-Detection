@@ -23,7 +23,7 @@ The ClearBoundaries API integrates the **Gemini** AI model to:
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
+gh repo clone justinDevel/ClearBoundaries-Gemini-AI-driven-Harassment-Detection
 cd email-analysis-api
 ```
 
