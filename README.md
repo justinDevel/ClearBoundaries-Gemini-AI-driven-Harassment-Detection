@@ -27,8 +27,8 @@ gh repo clone justinDevel/ClearBoundaries-Gemini-AI-driven-Harassment-Detection
 cd email-analysis-api
 ```
 
-### 2. Configure the `.env` File
-In the root of the project, edit the `.env` file to have your api key environment variables:
+### 2. Configure the `example.env` File
+In the root of the project rename example.env to .env, then edit the `.env` file to have your api key environment variable:
 
 ```bash
 GEMINI_API_KEY="your-gemini-api-key"  # Replace with your actual Gemini API key
